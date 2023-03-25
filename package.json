@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://mytkooleksii.github.io/demo-samurai",
-
   "dependencies": {
     "@shopify/react-form": "^2.5.1",
     "@testing-library/jest-dom": "^5.16.5",
